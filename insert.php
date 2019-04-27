@@ -1,3 +1,5 @@
+# Gets details from POST and inserts into DB
+
 <?php
 include './databaseconnection/dbconfig.php';
 $doi=$_POST['doi'];
